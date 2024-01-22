@@ -46,5 +46,7 @@ text-align: center;
 }
 
 #Jogos-eletronicos-de-computador-parte-esquerda p{
-margin-bottom: 20px;
+font-size: 20px;
+margin-bottom: 30px;
+text-align: left; /* Ajusta o alinhamento do texto para a direita */
 }
