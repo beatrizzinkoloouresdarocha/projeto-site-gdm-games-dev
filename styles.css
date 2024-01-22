@@ -25,10 +25,12 @@ text-align: center;
 #Jogos-eletronicos-de-computador {
     display: flex;
     background-color:#ffffff;
+    width: 907px;
+    margin-left: 280px;
 }
 
 #Jogos-eletronicos-de-computador-parte-esquerda {
-    margin-left: 280px;
+    margin-left:40px;
 }
 
 #Jogos-eletronicos-de-computador-parte-direita {
@@ -62,3 +64,12 @@ text-align: center;
 #icones-jogos-eletronicos li {
    margin-right: 30px;
 }
+
+nav{
+background-color:floralwhite;
+}
+
+.itemmunu{
+display: block;
+}
+
