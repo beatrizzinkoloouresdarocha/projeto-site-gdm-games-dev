@@ -23,7 +23,7 @@ text-align: center;
 
 #Jogos-eletronicos-de-computador {
     display: flex;
-    background-color: #ffffff;
+    background-color:#ffffff;
 }
 
 #Jogos-eletronicos-de-computador-parte-esquerda {
@@ -37,7 +37,9 @@ text-align: center;
 #icones-jogos-eletronicos ul {
     display: flex;
     list-style: none;
-    padding-left: 0px;
+    padding-left: 11px;
+    margin-block-start: 0px;
+
 }
 
 #Jogos-eletronicos-de-computador-parte-esquerda h2 {
@@ -48,10 +50,14 @@ text-align: center;
 
 #Jogos-eletronicos-de-computador-parte-esquerda p {
     font-size: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     text-align: left; /* Ajusta o alinhamento do texto para a direita */
 }
 
 #texto-Jogos-eletronicos-de-computador-parte-esquerda {
     align-items: left;
+}
+
+#icones-jogos-eletronicos li {
+   margin-right: 30px;
 }
