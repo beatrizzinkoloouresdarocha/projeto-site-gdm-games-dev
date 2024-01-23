@@ -69,7 +69,15 @@ nav{
 background-color:floralwhite;
 }
 
-.itemmunu{
-    display: inline-block;
+.itemmenu{
+display: flex;
+flex-direction: column;
+align-items: center;
 }
 
+.itemmenu a {
+    text-decoration: none;
+    color:floralwhite ; /* ou a cor desejada */
+    display: inline-block;
+    padding: 0px;
+}
