@@ -69,6 +69,17 @@ nav{
 background-color:floralwhite;
 }
 
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around; /* ou use justify-content: space-between; */
+    padding: 0;
+}
+
+nav li {
+    text-align: center;
+}
+
 .itemmenu{
 display: flex;
 flex-direction: column;
