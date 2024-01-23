@@ -70,5 +70,9 @@ background-color:floralwhite;
 }
 
 .itemmunu{
-display: block;
+    text-align: center;
+}
+
+.itemmenu a {
+    display: inline-block;
 }
