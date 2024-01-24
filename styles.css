@@ -126,7 +126,11 @@ margin-left:20px;
 #divid-texto-Alguns-jogos-que-jogamos {
     display: flex;
     align-items: center;
-    width: 400px;
+    width: 305px;
     height: 20px;
     /* Adicione outros estilos conforme necessário */
+}
+
+#divid-texto-Alguns-jogos-que-jogamos p {
+    margin-left: 30px;
 }
