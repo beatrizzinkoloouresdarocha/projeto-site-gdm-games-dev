@@ -100,3 +100,21 @@ align-items: center;
     width: 100%; 
     height: 40px; 
 }
+
+#botaosaibamaisRectangle {
+    width: 150px; /* Defina a largura desejada em pixels ou outra unidade de medida */
+    height: 50px; /* Defina a altura desejada em pixels ou outra unidade de medida */
+    background-color: #7BD651;
+    color:#ffffff;
+    border: none;
+    cursor: pointer;
+}
+
+.botaoRectangle {
+    width: 150px; /* Defina a largura desejada em pixels ou outra unidade de medida */
+    height: 50px; /* Defina a altura desejada em pixels ou outra unidade de medida */
+    background-color: #617378;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
