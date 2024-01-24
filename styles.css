@@ -108,13 +108,5 @@ align-items: center;
     color:#ffffff;
     border: none;
     cursor: pointer;
-}
-
-.botaoRectangle {
-    width: 150px; /* Defina a largura desejada em pixels ou outra unidade de medida */
-    height: 50px; /* Defina a altura desejada em pixels ou outra unidade de medida */
-    background-color: #617378;
-    color: #ffffff;
-    border: none;
-    cursor: pointer;
+    margin-top: 40px; /* Ajuste a margem superior conforme necessário */
 }
