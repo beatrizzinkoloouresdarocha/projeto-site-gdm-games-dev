@@ -109,5 +109,9 @@ align-items: center;
     color:#ffffff;
     border: none;
     cursor: pointer;
-    margin-top: 40px; /* Ajuste a margem superior conforme necessário */
+    margin-top: 0px; /* Ajuste a margem superior conforme necessário */
+}
+
+#Jogoseletronicosdecomputadorpartedireita{
+display: flex;
 }
