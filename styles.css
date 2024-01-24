@@ -110,11 +110,13 @@ align-items: center;
     border: none;
     cursor: pointer;
     margin-top: 0px; /* Ajuste a margem superior conforme necessário */
+    border-radius: 20px;
 }
 
 #Jogos-eletronicos-de-computador-parte-direita{
 display: flex;
 margin-left:84px;
+padding-top: 30px;
 }
 
 #Jogos-eletronicos-de-computador-parte-botao{
