@@ -145,3 +145,14 @@ margin-left:20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Adiciona uma sombra sutil */
     transition: transform 0.2s ease-in-out; /* Adiciona uma transição suave de escala */
 }
+
+#botaosaibamaisRectangle {
+    width: 163px;
+    height: 85px;
+    background-color: #7BD651;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    margin-top: 0px;
+    border-radius:
+}
