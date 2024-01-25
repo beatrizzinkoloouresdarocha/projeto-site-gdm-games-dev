@@ -157,8 +157,13 @@ margin-left:20px;
     border-radius:20px;
 }
 
-#jogos-eletronicos-de-computador-parte-direita{
+#jogos-eletronicos-de-computador-parte-direita-imagem{
 display: flex;
-margin-left:84px;
-padding-top: 30px;
+margin-left:152px;
+padding-top: 20px;
+}
+
+#jogos-eletronicos-de-computador-parte-botao{
+    display: flex;
+    margin-left:320px;
 }
