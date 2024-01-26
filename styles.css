@@ -146,13 +146,15 @@ margin-left:20px;
     transition: transform 0.2s ease-in-out; /* Adiciona uma transição suave de escala */
 }
 
-#Desenvolvimento-de-sistemas-parte-direita{
+#Desenvolvimentodesistemas{
     display: flex;
-    margin-left:284px;
-    padding-top: 15px;
+}
+
+#Desenvolvimento-de-sistemas-parte-direita{
+   
 }
 
 #Desenvolvimento-de-sistemas-parte-botao{
-    display: flex;
-    margin-left:20px
+
 }
+
