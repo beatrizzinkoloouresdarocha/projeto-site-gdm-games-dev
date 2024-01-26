@@ -153,11 +153,13 @@ margin-left:20px;
 }
 
 #Desenvolvimento-de-sistemas-parte-direita {
-display: flex;
+    display: flex;
+    margin-left:84px;
+    padding-top:30px;
 }
 
 .botaosaibamaisRectangle {
-display: flex;
+margin-left:30px;
 }
 
 #icones-Desenvolvimento-de-sistemas ul {
