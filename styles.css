@@ -154,12 +154,12 @@ margin-left:20px;
 
 #Desenvolvimento-de-sistemas-parte-direita {
     display: flex;
-    margin-left:84px;
-    padding-top:30px;
+    padding-top: 30px;
 }
 
 .botaosaibamaisRectangle {
-margin-left:30px;
+    display: flex;
+    margin-left: 184px; 
 }
 
 #icones-Desenvolvimento-de-sistemas ul {
