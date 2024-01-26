@@ -152,14 +152,14 @@ margin-left:20px;
     justify-content: center; /* Centraliza os itens horizontalmente */
 }
 
+#Desenvolvimentodesistemas-parte-esquerda {
+    width: 50%;
+}
+
 #Desenvolvimento-de-sistemas-parte-direita {
     display: flex;
     padding-top: 30px;
-}
-
-.botaosaibamaisRectangle {
-    display: flex;
-    margin-left: 184px; 
+    width: 50%;
 }
 
 #icones-Desenvolvimento-de-sistemas ul {
@@ -167,4 +167,8 @@ display: flex;
 list-style: none;
 padding-left: 20px;
 margin-block-start: 20px;
+}
+
+#botaoRectangle{
+  
 }
