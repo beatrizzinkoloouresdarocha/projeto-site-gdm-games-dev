@@ -24,7 +24,7 @@ body {
 text-align: center;
 }
 
-#Jogos-eletronicos-de-computador {
+.divfundobrancocomitens {
     display: flex;
     background-color:#ffffff;
     width: 907px;
@@ -151,10 +151,16 @@ margin-left:20px;
 }
 
 #Desenvolvimento-de-sistemas-parte-direita{
-   
+    
 }
 
 #Desenvolvimento-de-sistemas-parte-botao{
-
+    
 }
 
+#icones-Desenvolvimento-de-sistemas ul {
+    display: flex;
+    list-style: none;
+    padding-left: 41px;
+    margin-block-start: 20px;
+}
