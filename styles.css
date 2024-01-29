@@ -197,3 +197,20 @@ margin-left:20px;
     font-size: 18px; /* Tamanho da fonte, ajuste conforme necessário */
     color: #333; /* Cor do texto, ajuste conforme necessário */
 }
+
+#galeriaImagensProgramacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px; /* Ajuste a margem conforme necessário */
+    width: 20px;
+}
+
+#galeriaImagensProgramacao img {
+    max-width: 30%; /* Garante que a largura da imagem não ultrapasse a largura da div */
+    max-height: 100%; /* Garante que a altura da imagem não ultrapasse a altura da div */
+    margin: 0 30px; /* Espaçamento entre as imagens, ajuste conforme necessário */
+    border-radius: 8px; /* Arredonda as bordas da imagem */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Adiciona uma sombra sutil */
+    transition: transform 0.2s ease-in-out; /* Adiciona uma transição suave de escala */
+}
