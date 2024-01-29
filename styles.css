@@ -168,6 +168,10 @@ margin-left:20px;
 
 #botaoRectangle {
     list-style: none;
-    margin-left: 10px; /* Adicione uma margem entre a imagem e o botão */
+    margin-left: 100px; /* Adicione uma margem entre a imagem e o botão */
 }
 
+#divid-texto-Desenvolvimento-de-sistemas{
+    width: 100%; 
+    height: 10px; 
+}
