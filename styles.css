@@ -159,12 +159,14 @@ margin-left:20px;
 }
 
 #Desenvolvimento-de-sistemas-parte-direita-imagem img {
+    margin-left: 70px; /* Adicione margem à esquerda do botão */
     margin-right: 50px;
     max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner */
 }
 
 #Desenvolvimento-de-sistemas-parte-direita-botao {
-    margin-left: 50px; /* Adicione margem à esquerda do botão */
+    margin-left: 70px; /* Adicione margem à esquerda do botão */
+    margin-right: 50px;
 }
 
 #botaosaibamaisRectangle {
