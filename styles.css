@@ -152,10 +152,6 @@ margin-left:20px;
     justify-content: center; /* Centraliza os itens horizontalmente */
 }
 
-#Desenvolvimentodesistemas-parte-esquerda {
-    width: 50%;
-}
-
 #Desenvolvimento-de-sistemas-parte-direita {
     display: flex;
     padding-top: 30px;
@@ -163,12 +159,14 @@ margin-left:20px;
 }
 
 #icones-Desenvolvimento-de-sistemas ul {
-display: flex;
-list-style: none;
-padding-left: 20px;
-margin-block-start: 20px;
+    display: flex;
+    list-style: none;
+    padding-left: 20px;
+    margin-block-start: 20px;
 }
 
-#botaoRectangle{
-  
+#botaoRectangle {
+    list-style: none;
+    margin-left: 0px; /* Adicione uma margem entre a imagem e o botão */
 }
+
