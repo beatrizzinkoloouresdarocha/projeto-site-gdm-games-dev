@@ -185,3 +185,15 @@ margin-left:20px;
     border-radius: 20px;
     /* Outros estilos do elemento conforme necessário */
 }
+
+#divid-texto-Algumas-linguagens-que-programamos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 04vh; /* Ajuste conforme necessário */
+}
+
+#divid-texto-Algumas-linguagens-que-programamos span {
+    font-size: 18px; /* Tamanho da fonte, ajuste conforme necessário */
+    color: #333; /* Cor do texto, ajuste conforme necessário */
+}
