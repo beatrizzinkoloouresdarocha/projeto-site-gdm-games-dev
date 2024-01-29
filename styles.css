@@ -216,3 +216,13 @@ margin-left:20px;
     width: 120px;
     height: 120px;
 }
+
+#div-texto-NERDVERSOS {
+    background-color:#617378;
+    text-align: center;
+    height: 20px;
+    width: 1440px;
+    margin: 0 auto; /* Isso centraliza horizontalmente */
+}
+
+
