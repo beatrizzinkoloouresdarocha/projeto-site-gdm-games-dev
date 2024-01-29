@@ -145,39 +145,40 @@ margin-left:20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Adiciona uma sombra sutil */
     transition: transform 0.2s ease-in-out; /* Adiciona uma transição suave de escala */
 }
-
 #Desenvolvimentodesistemas {
     display: flex;
-    align-items: flex-start; /* Ajusta os itens para o topo do contêiner */
-    justify-content: center; /* Centraliza os itens horizontalmente */
+    align-items: flex-start;
+    justify-content: center;
 }
 
-#Desenvolvimento-de-sistemas-parte-direita img {
-    margin-right: 10px; /* Adicione margem à direita da imagem */
+#Desenvolvimento-de-sistemas-parte-direita {
     display: flex;
+    align-items: center;
     padding-top: 30px;
     width: 50%;
 }
 
-#icones-Desenvolvimento-de-sistemas ul {
-    display: flex;
-    list-style: none;
-    padding-left: 20px;
-    margin-block-start: 20px;
+#Desenvolvimento-de-sistemas-parte-direita-imagem img {
+    margin-right: 10px;
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner */
 }
 
-#botaosaibamaisRectangle{
-    list-style: none;
-    margin-left: 50px; /* Ajuste o valor conforme necessário */
+#Desenvolvimento-de-sistemas-parte-direita-botao {
+    margin-left: 50px; /* Adicione margem à esquerda do botão */
 }
 
-#divid-texto-Desenvolvimento-de-sistemas{
-    width: 163px; /* Defina a largura desejada em pixels ou outra unidade de medida */
-    height: 85px; /* Defina a altura desejada em pixels ou outra unidade de medida */
-     background-color: #7BD651;
-    color:#ffffff;
+#botaosaibamaisRectangle {
+    list-style: none;
+}
+
+#divid-texto-Desenvolvimento-de-sistemas {
+    width: 163px;
+    height: 85px;
+    background-color: #7BD651;
+    color: #ffffff;
     border: none;
     cursor: pointer;
-    margin-top: 0px; /* Ajuste a margem superior conforme necessário */
+    margin-top: 90px;
     border-radius: 20px;
+    /* Outros estilos do elemento conforme necessário */
 }
