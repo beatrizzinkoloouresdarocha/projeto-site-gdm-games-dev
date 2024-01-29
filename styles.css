@@ -172,6 +172,12 @@ margin-left:20px;
 }
 
 #divid-texto-Desenvolvimento-de-sistemas{
-    width: 100%; 
-    height: 10px; 
+    width: 163px; /* Defina a largura desejada em pixels ou outra unidade de medida */
+    height: 85px; /* Defina a altura desejada em pixels ou outra unidade de medida */
+    background-color: #7BD651;
+    color:#ffffff;
+    border: none;
+    cursor: pointer;
+    margin-top: 0px; /* Ajuste a margem superior conforme necessário */
+    border-radius: 20px;
 }
