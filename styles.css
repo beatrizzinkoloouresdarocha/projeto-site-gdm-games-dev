@@ -154,6 +154,7 @@ margin-left:20px;
 
 #Desenvolvimento-de-sistemas-parte-direita {
     display: flex;
+    align-items: center; /* Alinha os itens verticalmente ao centro */
     padding-top: 30px;
     width: 50%;
 }
@@ -167,6 +168,6 @@ margin-left:20px;
 
 #botaoRectangle {
     list-style: none;
-    margin-left: 0px; /* Adicione uma margem entre a imagem e o botão */
+    margin-left: 10px; /* Adicione uma margem entre a imagem e o botão */
 }
 
