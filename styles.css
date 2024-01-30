@@ -225,12 +225,20 @@ margin-left:20px;
     margin: 0 auto; /* Isso centraliza horizontalmente */
 }
 
-h2{
-    display: block;
-    font-size: 1.8em;
-}
-
-.divfundobrancocomitens p{
+.divfundobrancocomitens {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+#Anime-e-cultura-pop-em-um-só-lugar-parte-esquerda {
+    text-align: center;
+}
+
+#texto-Anime-e-cultura-pop-em-um-só-lugar-parte-esquerda h2 {
+    margin-bottom: 10px; /* Adicione a margem inferior conforme necessário */
+}
+
+#texto-Anime-e-cultura-pop-em-um-só-lugar-parte-esquerda p {
+    margin-bottom: 20px; /* Adicione a margem inferior conforme necessário */
+}
