@@ -232,18 +232,15 @@ margin-left:20px;
 }
 
 #Anime-e-cultura-pop-em-um-só-lugar-parte-esquerda {
-    text-align: center;
+    text-align: left; /* Ajusta o alinhamento do texto para a esquerda */
 }
 
 #texto-Anime-e-cultura-pop-em-um-só-lugar-parte-esquerda h2 {
-    font-size: 20px; /* Ajuste o tamanho do título conforme necessário */
-    text-align: left;
+    font-size: 100px; /* Ajuste o tamanho do título conforme necessário */
     margin-bottom: 10px;
 }
 
 #texto-Anime-e-cultura-pop-em-um-só-lugar-parte-esquerda p {
     font-size: 20px;
     margin-bottom: 20px;
-    text-align: left; /* Ajusta o alinhamento do texto para a direita */
-
 }
