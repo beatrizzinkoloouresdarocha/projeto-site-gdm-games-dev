@@ -251,5 +251,12 @@ margin-left:20px;
 }
 
 #Anime-e-cultura-pop-em-um-so-lugar-parte-direita {
-    margin-right: 40px;
+    margin-right: 130px;
+}
+
+#Anime-e-cultura-pop-em-um-so-lugar-parte-direita {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    width: 50px;
 }
