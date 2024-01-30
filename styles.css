@@ -225,7 +225,7 @@ margin-left:20px;
     margin: 0 auto; /* Isso centraliza horizontalmente */
 }
 
-.divfundobrancocomitens {
+.divfundobrancocomitens{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -243,4 +243,8 @@ margin-left:20px;
 #textoAnimeeculturapopemumsolugar-parte-esquerda p {
     font-size: 20px;
     margin-right: 100px;
+}
+
+#Anime-e-cultura-pop-em-um-so-lugar-parte-esquerda img {
+    height: 39px;
 }
