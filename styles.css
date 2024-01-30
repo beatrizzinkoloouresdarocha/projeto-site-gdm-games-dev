@@ -236,9 +236,14 @@ margin-left:20px;
 }
 
 #texto-Anime-e-cultura-pop-em-um-só-lugar-parte-esquerda h2 {
-    margin-bottom: 10px; /* Adicione a margem inferior conforme necessário */
+    font-size: 20px; /* Ajuste o tamanho do título conforme necessário */
+    text-align: left;
+    margin-bottom: 10px;
 }
 
 #texto-Anime-e-cultura-pop-em-um-só-lugar-parte-esquerda p {
-    margin-bottom: 20px; /* Adicione a margem inferior conforme necessário */
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: left; /* Ajusta o alinhamento do texto para a direita */
+
 }
