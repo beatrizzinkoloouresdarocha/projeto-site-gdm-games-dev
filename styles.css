@@ -251,12 +251,17 @@ margin-left:20px;
 }
 
 #Anime-e-cultura-pop-em-um-so-lugar-parte-direita {
-    margin-right: 140px;
-}
-
-#Anime-e-cultura-pop-em-um-so-lugar-parte-direita {
+    margin-right: 30px;
     display: flex;
     align-items: center;
     padding-top: 30px;
-    width: 50px;
+}
+
+#imagem-anime {
+    max-width: 120px; /* Garante que a imagem não ultrapasse a largura da parte direita */
+}
+
+#botao-anime {
+    margin-left: 20px; /* Ajuste a margem conforme necessário */
+    /* Outras propriedades do botão, se necessário */
 }
