@@ -231,14 +231,8 @@ margin-left:20px;
     align-items: center;
 }
 
-#Anime-e-cultura-pop-em-um-so-lugar-parte-esquerda {
-    text-align: left; /* Ajusta o alinhamento do texto para a esquerda */
-    margin-left: 40px;
-}
-
 #textoAnimeeculturapopemumsolugar-parte-esquerda h2 {
     font-size:1.5em; /* Ajuste o tamanho do título conforme necessário */
-   
 }
 
 #textoAnimeeculturapopemumsolugar-parte-esquerda p {
@@ -248,6 +242,12 @@ margin-left:20px;
 
 #Anime-e-cultura-pop-em-um-so-lugar-parte-esquerda img {
     height: 30px;
+}
+
+#Anime-e-cultura-pop-em-um-so-lugar-parte-esquerda {
+    text-align: left; /* Ajusta o alinhamento do texto para a esquerda */
+    margin-left: 10px;
+    text-align: left;
 }
 
 #Anime-e-cultura-pop-em-um-so-lugar-parte-direita {
