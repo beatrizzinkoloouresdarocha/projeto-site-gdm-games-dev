@@ -246,7 +246,7 @@ margin-left:20px;
 
 #Anime-e-cultura-pop-em-um-so-lugar-parte-esquerda {
     text-align: left; /* Ajusta o alinhamento do texto para a esquerda */
-    margin-left: 10px;
+    margin-left: 0px;
     text-align: left;
 }
 
@@ -258,10 +258,10 @@ margin-left:20px;
 }
 
 #imagem-anime {
-    max-width: 120px; /* Garante que a imagem não ultrapasse a largura da parte direita */
+    max-width: 230px; /* Garante que a imagem não ultrapasse a largura da parte direita */
 }
 
 #botao-anime {
-    margin-left: 10px; /* Ajuste a margem conforme necessário */
+    margin-left: 20px; /* Ajuste a margem conforme necessário */
     /* Outras propriedades do botão, se necessário */
 }
