@@ -227,13 +227,14 @@ margin-left:20px;
 
 .divfundobrancocomitens {
     display: flex;
-    justify-content: space-between; /* Alterado para space-between para empurrar os itens para as extremidades */
-    align-items: center;
-    padding: 20px; /* Ajuste a margem conforme necessário */
+    background-color: #ffffff;
+    width: 900px;
+    margin-left: 284px;
+    margin-top: 15px;
 }
 
 #textoAnimeeculturapopemumsolugar-parte-esquerda h2 {
-    font-size: 1.5em; /* Ajuste o tamanho do título conforme necessário */
+    font-size: 1.7em; /* Ajuste o tamanho do título conforme necessário */
 }
 
 #textoAnimeeculturapopemumsolugar-parte-esquerda p {
@@ -253,5 +254,5 @@ margin-left:20px;
 #Anime-e-cultura-pop-em-um-so-lugar-parte-direita {
     display: flex;
     align-items: center;
-    padding-top: 50px;
+    padding-top: 10px;
 }
