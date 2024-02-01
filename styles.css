@@ -44,7 +44,7 @@ text-align: center;
     display: flex;
     list-style: none;
     padding-left: 11px;
-    margin-block-start: 0px;
+    margin-block-start:0px;
 
 }
 
@@ -232,7 +232,7 @@ margin-left:20px;
 }
 
 #textoAnimeeculturapopemumsolugar-parte-esquerda h2 {
-    font-size:1.5em; /* Ajuste o tamanho do título conforme necessário */
+    font-size:1.4em; /* Ajuste o tamanho do título conforme necessário */
 }
 
 #textoAnimeeculturapopemumsolugar-parte-esquerda p {
@@ -240,25 +240,23 @@ margin-left:20px;
     margin-right: 100px;
 }
 
-#Anime-e-cultura-pop-em-um-so-lugar-parte-esquerda img {
-    height: 35px;
+#Anime-e-cultura-pop-em-um-so-lugar-parte-direita img {
+    margin-left: 40px; /* Adicione margem à esquerda do botão */
+    margin-right: 40px;
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner */
 }
 
 #Anime-e-cultura-pop-em-um-so-lugar-parte-esquerda {
     text-align: left;
-    margin-right: 100px;
-}
-
-#Anime-e-cultura-pop-em-um-so-lugar-parte-direita {
-    margin-right: 10px; /* Ajuste a margem conforme necessário para separar a imagem do botão */
-    display: flex;
+    margin-right: 0px;
     align-items: center;
 }
 
-#imagem-anime {
-    max-width: 130px; /* Garante que a imagem não ultrapasse a largura da parte direita */
+#Anime-e-cultura-pop-em-um-so-lugar-parte-direita
+ {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    width: 50%;
 }
 
-#botao-anime {
-    margin-left: 50px; /* Ajuste a margem conforme necessário para separar a imagem do botão */
-}
