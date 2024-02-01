@@ -245,12 +245,20 @@ margin-left:20px;
 }
 
 #Anime-e-cultura-pop-em-um-so-lugar-parte-esquerda {
-    text-align: left; /* Ajusta o alinhamento do texto para a esquerda */
-    margin-left: 10px;
+    text-align: left;
+    margin-right: 100px;
 }
 
 #Anime-e-cultura-pop-em-um-so-lugar-parte-direita {
-    margin-right: 120px; /* Ajuste a margem conforme necessário para separar a imagem do botão */
+    margin-right: 10px; /* Ajuste a margem conforme necessário para separar a imagem do botão */
     display: flex;
     align-items: center;
+}
+
+#imagem-anime {
+    max-width: 130px; /* Garante que a imagem não ultrapasse a largura da parte direita */
+}
+
+#botao-anime {
+    margin-left: 50px; /* Ajuste a margem conforme necessário para separar a imagem do botão */
 }
