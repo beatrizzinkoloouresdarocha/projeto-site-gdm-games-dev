@@ -295,3 +295,11 @@ margin-left:20px;
     margin: 10px; /* Ajuste a margem conforme necessário */
 }
 
+.galeriaImagens img {
+    max-width: 100%; /* Garante que a largura da imagem não ultrapasse a largura da div */
+    max-height: 100%; /* Garante que a altura da imagem não ultrapasse a altura da div */
+    margin: 0 10px; /* Espaçamento entre as imagens, ajuste conforme necessário */
+    border-radius: 8px; /* Arredonda as bordas da imagem */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Adiciona uma sombra sutil */
+    transition: transform 0.2s ease-in-out; /* Adiciona uma transição suave de escala */
+}
