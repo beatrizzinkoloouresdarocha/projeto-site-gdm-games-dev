@@ -275,3 +275,14 @@ margin-left:20px;
     width: 57%;
 }
 
+#divid-texto-Gostamos-de-assistir{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 04vh; /* Ajuste conforme necessário */
+
+}
+
+
+
+
