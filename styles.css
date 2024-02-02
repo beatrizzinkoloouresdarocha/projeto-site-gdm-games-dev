@@ -288,7 +288,6 @@ margin-left:20px;
     color: #333; /* Cor do texto, ajuste conforme necessário */
 }
 
-/* Este seletor abaixo parece ser redundante e não tem as propriedades necessárias */
 .galeriaImagensAnimeeculturapopemumsolugar {
     display: flex;
     justify-content: center;
@@ -296,14 +295,13 @@ margin-left:20px;
     margin: 20px; /* Ajuste a margem conforme necessário */
 }
 
-/* Este é o seletor que você deve usar para estilizar as imagens individuais dentro da galeria */
 .galeriaImagensAnimeeculturapopemumsolugar img {
     max-width: 100%; /* Garante que a largura da imagem não ultrapasse a largura da div */
     max-height: 100%; /* Garante que a altura da imagem não ultrapasse a altura da div */
-    margin: 10px; /* Espaçamento entre as imagens, ajuste conforme necessário */
+    margin: 40px; /* Espaçamento entre as imagens, ajuste conforme necessário */
     border-radius: 8px; /* Arredonda as bordas da imagem */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Adiciona uma sombra sutil */
     transition: transform 0.2s ease-in-out; /* Adiciona uma transição suave de escala */
     width: 120px;
-    height: 200px;
+    height: 120px;
 }
