@@ -283,6 +283,9 @@ margin-left:20px;
 
 }
 
-
+#divid-texto-Gostamos-de-assistir span {
+    font-size: 20px; /* Tamanho da fonte, ajuste conforme necessário */
+    color: #333; /* Cor do texto, ajuste conforme necessário */
+}
 
 
