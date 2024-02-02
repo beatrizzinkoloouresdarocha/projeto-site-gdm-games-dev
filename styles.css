@@ -288,4 +288,10 @@ margin-left:20px;
     color: #333; /* Cor do texto, ajuste conforme necessário */
 }
 
+.galeriaImagens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px; /* Ajuste a margem conforme necessário */
+}
 
