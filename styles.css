@@ -288,3 +288,10 @@ margin-left:20px;
     color: #333; /* Cor do texto, ajuste conforme necessário */
 }
 
+#galeriaimagensAnimeeculturapopemumsolugar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px; /* Ajuste a margem conforme necessário */
+    width: 100%;
+}
