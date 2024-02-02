@@ -258,7 +258,7 @@ margin-left:20px;
 }
 
 #imagensmarvelpng {
-    width: 100%; /* Garante que a div ocupa 100% da largura do contêiner pai */
+    width: 60%; /* Garante que a div ocupa 100% da largura do contêiner pai */
 }
 
 #imagensmarvelpng img {
