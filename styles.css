@@ -265,5 +265,5 @@ margin-left:20px;
     max-width: 100%; /* Garante que as imagens não ultrapassem a largura da div */
     height: auto; /* Mantém a proporção original da imagem */
     display: block; /* Remove espaços extras abaixo das imagens */
-    margin: 40 auto; /* Centraliza as imagens horizontalmente */
+    margin: 50 auto; /* Centraliza as imagens horizontalmente */
 }
