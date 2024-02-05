@@ -305,7 +305,7 @@ margin-left:20px;
     padding: 20px; /* Adiciona algum espaçamento interno ao rodapé (opcional) */
     width: 97%; /* Ajusta a largura do rodapé para 80% da largura do contêiner pai */
     margin: 0 auto; /* Centraliza o rodapé no contêiner pai usando margens automáticas */
-    height: 180px;
+    height: 158px;
     align-items: center; /* Centraliza os itens verticalmente */
 }
 
