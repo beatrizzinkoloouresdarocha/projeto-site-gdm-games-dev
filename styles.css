@@ -295,3 +295,10 @@ margin-left:20px;
     margin: 20px;
     width: 95%;
 }
+
+.footer-container {
+    background-color: white; /* Cor de fundo branca */
+    padding: 20px; /* Adiciona algum espaçamento interno ao rodapé */
+    color: black; /* Define a cor do texto como preto */
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
