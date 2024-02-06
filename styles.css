@@ -301,14 +301,29 @@ margin-left:20px;
 }
 
 .footer-container {
-    color:black ; /* Define a cor do texto como branco (opcional) */
-    padding: 0; /* Removido o espaçamento interno ao rodapé */
-    width: 97%; /* Ajusta a largura do rodapé para 98% da largura do contêiner pai */
-    margin: 0 auto; /* Centraliza o rodapé no contêiner pai usando margens automáticas */
+    background-color: white; /* Cor de fundo branca */
+    padding: 20px; /* Adiciona algum espaçamento interno ao rodapé */
+    color: black; /* Define a cor do texto como preto */
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
+
+.imagem-texto-container {
+    display: flex;
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    align-items: center; /* Centraliza os itens verticalmente */
+    margin-bottom: 20px; /* Adiciona espaço entre as imagens e o texto */
+}
+
+.img_rodape {
+    margin: 0 10px; /* Adiciona espaço entre as imagens */
 }
 
 #texto-container-rodape {
     display: flex;
-    justify-content: space-around; /* Ajustado para space-around ou space-between, conforme necessário */
-    align-items: center; /* Centraliza os itens verticalmente */
+    justify-content: center; /* Centraliza o texto horizontalmente */
+}
+
+#texto-container-rodape-lado-esquerdo {
+    max-width: 300px; /* Ajusta a largura máxima do texto */
+    text-align: left; /* Alinha o texto à esquerda */
 }
