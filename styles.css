@@ -299,10 +299,13 @@ margin-left:20px;
 #texto-container-rodape {
     background-image: url('imagens/Rectangle (2).png');
     text-align: center;
+    width: 1457px; /* Ajuste a largura conforme necessário */
+    height: 130px; /* Ajusta a altura conforme necessário */
 }
 
 .img_rodape {
     width: 1457px; /* Ajuste a largura conforme necessário */
-    
+    height: 34.5px; /* Ajusta a altura conforme necessário */
+    width: 95%; /* Ajusta a largura do rodapé para 80% da largura do contêiner pai */
 }
 
