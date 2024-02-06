@@ -296,13 +296,9 @@ margin-left:20px;
     width: 95%;
 }
 
-#imagemrodape {
-    width: 100%;
-}
-
 .footer-container {
     background-color: white; /* Cor de fundo branca */
-    padding: 20px; /* Adiciona algum espaçamento interno ao rodapé */
+    padding: 40px; /* Adiciona algum espaçamento interno ao rodapé */
     color: black; /* Define a cor do texto como preto */
     text-align: center; /* Centraliza o texto horizontalmente */
 }
@@ -324,6 +320,6 @@ margin-left:20px;
 }
 
 #texto-container-rodape-lado-esquerdo {
-    max-width: 300px; /* Ajusta a largura máxima do texto */
+    max-width: 200px; /* Ajusta a largura máxima do texto */
     text-align: left; /* Alinha o texto à esquerda */
 }
