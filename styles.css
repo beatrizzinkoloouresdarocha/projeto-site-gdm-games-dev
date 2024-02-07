@@ -304,14 +304,13 @@ margin-left:20px;
 }
 
 .imagem-texto-container {
-    text-align: center; /* Alinha o conteúdo à direita */
-    margin-right: 160px;
+    text-align: center; 
 }
 
 .img_rodape {
     /* Estilo para as imagens do rodapé */
     width: 1457px; /* Ajuste a largura conforme necessário */
     height: 34.5px; /* Ajusta a altura conforme necessário */
-    align-items: center;/* Ajusta a imagem para o lado direito */
 }
+
 
