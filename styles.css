@@ -311,8 +311,8 @@ margin-left:20px;
     /* Estilo para as imagens do rodapé */
     width: 1454px; /* Ajuste a largura conforme necessário */
     height: 34.5px; /* Ajusta a altura conforme necessário */
-    margin-left: 0px; /* Define a margem à direita para separar as imagens */
-    display: block;
+    margin-left: -0px; /* Define um espaçamento positivo para as imagens */
+    display: flex;
 }
 
 
