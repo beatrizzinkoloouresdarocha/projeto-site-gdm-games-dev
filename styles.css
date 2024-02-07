@@ -296,6 +296,10 @@ margin-left:20px;
     width: 95%;
 }
 
+#imagemrodape{
+    width: 100%;
+}
+
 #texto-container-rodape {
     background-image: url('imagens/Rectangle (2).png');
     text-align: center;
@@ -303,7 +307,7 @@ margin-left:20px;
     height: 130px; /* Ajusta a altura conforme necessário */
 }
 
-.imagem-texto-container {
+#imagem-texto-container {
     text-align: center; 
 }
 
@@ -311,9 +315,17 @@ margin-left:20px;
     /* Estilo para as imagens do rodapé */
     width: 1454px; /* Ajuste a largura conforme necessário */
     height: 34.5px; /* Ajusta a altura conforme necessário */
-    margin-left: -0px; /* Define um espaçamento positivo para as imagens */
-    display: flex;
 }
+
+#texto-container-rodape-lado-direito{
+    margin-right: 160px;
+}
+
+
+.footer-container {
+    margin: 0 auto; /* Isso centraliza horizontalmente */
+}
+
 
 
 
