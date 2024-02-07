@@ -309,8 +309,11 @@ margin-left:20px;
 
 .img_rodape {
     /* Estilo para as imagens do rodapé */
-    width: 1457px; /* Ajuste a largura conforme necessário */
+    width: 700px; /* Ajuste a largura conforme necessário */
     height: 34.5px; /* Ajusta a altura conforme necessário */
+    margin-left: 50px; /* Define a margem à esquerda para separar as imagens */
+    display: block;
 }
+
 
 
