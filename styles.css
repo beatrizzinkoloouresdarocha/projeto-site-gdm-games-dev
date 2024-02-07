@@ -326,6 +326,10 @@ margin-left:20px;
     margin: 0 auto; /* Isso centraliza horizontalmente */
 }
 
+#texto-container-rodape-lado-esquerdo p {
+    margin-top: 0px;
+}
+
 
 
 
